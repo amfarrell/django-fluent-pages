@@ -1,5 +1,5 @@
 # For the CMS:
-Django>=1.4.2, < 1.5
+Django>= 1.4.2, < 4.3
 django-polymorphic-tree>=0.8.3
 django-mptt>=0.5.2
 django-tag-parser>=1.0.0
